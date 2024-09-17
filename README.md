@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TamannaKaiserAlien
 - 👀 I’m interested in ...Software and Website Developing
-- 🌱 I’m currently learning ...Ruby
 - 💞️ I’m looking to collaborate on ...Innovative Projects
 - 📫 How to reach me ...Email me at tamannakaiseralien@gmail.com
 - 👀 My Portfolio ... 
